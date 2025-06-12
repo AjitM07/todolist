@@ -1,0 +1,25 @@
+@media(max-width:425px){    
+.todo-app{
+    margin: 20px;
+    width: 120%;
+    max-width: 400px;
+    background: #ffffff95;
+    justify-self: center;
+    margin:80px 20px 20px auto;
+    padding: 40px 30px 70px;
+    border-radius: 30px;
+}
+.row{
+    width: 280px;
+    display:flex;
+    border-radius: 30px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+}
+button{
+    transition:none;
+}
+.footer{
+    display: none;
+}
+}
